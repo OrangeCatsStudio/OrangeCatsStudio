@@ -11,6 +11,10 @@ I'm Mikan. I'm a student programmer. I wanna be a passionate system engineer or 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=OrangeCatsStudio&show_icons=true&locale=en&layout=compact)
 
-## Languages that have been used:
+## Languages that have been used :
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php,cs,cpp" /> <br /><br />
+
+## My Github Stats!
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=airinarita&show_icons=true&locale=en" alt="airinarita" /></p>
