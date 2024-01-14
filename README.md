@@ -1,5 +1,9 @@
 <h1 align="center">OrangeCatsStudio(Mikan)</h1>
 
+<a href="https://github.com/OrangeCatsStudio/OrangeCatsStudio/">
+    <img src="https://komarev.com/ghpvc/?username=OrangeCatsStudio" alt="OrangeCatsStudio" />
+</a>
+
 ## About Me
 I'm Mikan. I'm a student programmer. I wanna be a passionate system engineer or an interesting game developer. I develop many systems mainly in Python, games in Unity in C#, and front-end and back-end in HTML, CSS, PHP, and JavaScript.
 
