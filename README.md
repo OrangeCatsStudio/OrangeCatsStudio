@@ -1,7 +1,7 @@
-# OrangeCatsStudio(Mikan)
+<h1 align="center">OrangeCatsStudio(Mikan)</h1>
 
 ## About Me
-I'm Mikan.
+I'm Mikan. I'm a student programmer.
 
 ## Most Used Languages
 
