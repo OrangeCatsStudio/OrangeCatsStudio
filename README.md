@@ -17,4 +17,4 @@ I'm Mikan. I'm a student programmer. I wanna be a passionate system engineer or 
 
 ## My Github Stats!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=airinarita&show_icons=true&locale=en" alt="airinarita" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OrangeCatsStudio&show_icons=true&locale=en" alt="OrangeCatsStudio" /></p>
