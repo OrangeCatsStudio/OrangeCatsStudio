@@ -4,4 +4,4 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,php,C#,C++" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,php,cs,cpp" /> <br /><br />
