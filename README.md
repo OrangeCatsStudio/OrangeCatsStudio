@@ -1,4 +1,4 @@
-<h1 align="center">OrangeCatsStudio(Mikan)</h1>
+<h1 align="center">OrangeCatsStudio (Mikan)</h1>
 
 <a href="https://github.com/OrangeCatsStudio/OrangeCatsStudio/">
     <img src="https://komarev.com/ghpvc/?username=OrangeCatsStudio" alt="OrangeCatsStudio" />
