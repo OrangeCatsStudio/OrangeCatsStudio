@@ -15,6 +15,6 @@ I'm Mikan. I'm a student programmer. I wanna be a passionate system engineer or 
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,php,cs,cpp" /> <br /><br />
 
-## My Github Stats!
+## My Github Stats :
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OrangeCatsStudio&show_icons=true&locale=en&theme=dracula" alt="OrangeCatsStudio" /></p>
