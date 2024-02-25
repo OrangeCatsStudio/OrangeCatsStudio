@@ -9,7 +9,7 @@ I'm Mikan. I'm a student programmer. I wanna be a passionate system engineer or 
 
 ## Most Used Languages :
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=OrangeCatsStudio&show_icons=true&locale=en&layout=compact&theme=transparent)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=OrangeCatsStudio&show_icons=true&locale=en&layout=compact&theme=transparent&count_private=true)
 
 ## Languages that have been used :
 
@@ -17,4 +17,4 @@ I'm Mikan. I'm a student programmer. I wanna be a passionate system engineer or 
 
 ## My Github Stats :
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OrangeCatsStudio&show_icons=true&locale=en&theme=transparent" alt="OrangeCatsStudio" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OrangeCatsStudio&show_icons=true&locale=en&theme=transparent&count_private=true" alt="OrangeCatsStudio" /></p>
